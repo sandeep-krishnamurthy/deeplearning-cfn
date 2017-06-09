@@ -17,6 +17,8 @@ We've updated the AWS CloudFormation Deep Learning template to add some exciting
 
 * We now support creating a cluster of instances running Ubuntu. See the [Ubuntu Deep Learning AMI](https://aws.amazon.com/marketplace/pp/B06VSPXKDX).
 
+* We now support 5 AWS regions - us-east-1, us-east-2, us-west-2, eu-west-1 and ap-southeast-2.
+
 ## EC2 Cluster Architecture 
 The following architecture diagram shows the EC2 cluster infrastructure.  
 ![](images/Slide0.png)  
